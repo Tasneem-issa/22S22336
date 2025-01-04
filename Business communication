@@ -1,10 +1,11 @@
-The "Business Communication Software" project aims to develop a comprehensive and efficient communication platform for businesses, facilitating interaction between teams and individuals. One of the key features that can be added to this system is Real-Time Chat.
+Business Communication Software
 
-The concept is to enable employees or teams to communicate directly and efficiently through instant messaging, which accelerates decision-making processes and boosts productivity. The core feature is that messages are sent and received in real-time using technologies like WebSockets, ensuring that messages appear instantly on all connected devices.
+This project aims to develop a comprehensive communication platform designed for businesses to improve internal communication and collaboration. It provides tools for teams to interact, share ideas, and manage communication seamlessly within a business environment.
 
-Key Functions of the Real-Time Chat Feature:
-Send and Receive Messages in Real-Time: When a user sends a message, it is immediately sent to all members of the team or group chat.
-Private and Group Messaging: Users can communicate either individually or within designated team groups.
-User-Friendly Interface: The chat interface includes a message window where messages are displayed clearly, making it easy to read. Additionally, users can send new messages through a simple text input interface.
-Instant Notifications: Users receive real-time notifications when they receive new messages, ensuring quick responses.
-Message History and Reliability: Messages are stored and available for easy retrieval, ensuring continuity in conversations.
+ Key Features:
+
+- Real-Time Messaging: Enables instant communication between team members through real-time chat. Messages are sent and received instantly using WebSocket technology.
+- Private and Group Chats: Users can engage in private one-on-one conversations or participate in group chats tailored for specific teams or projects.
+- Instant Notifications: Real-time notifications ensure users are immediately informed of new messages and updates.
+- Message History: Users can access and search previous messages, making it easy to review past conversations and decisions.
+- User-Friendly Interface: The platform offers a clean and intuitive chat interface that is easy to navigate and interact with.
