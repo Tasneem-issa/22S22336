@@ -1,7 +1,10 @@
-Business Communication Software is a real-time communication platform designed to facilitate messaging within teams and organizations. It allows users to chat, share messages, and manage their accounts, helping improve business operations and communication.
-This software supports user login, chat features, and is built using Node.js for the backend and Socket.IO for real-time communication.
-Real-Time Chat: Allows instant text-based communication between users.
-User Authentication: Secure login system with username and password validation.
-Simple User Interface: Clean, easy-to-navigate interface for efficient communication.
-Real-Time Messaging: Messages are transmitted and received instantly using Socket.IO.
-Version Control: GitHub integration for version management and collaborative development.
+The "Business Communication Software" project aims to develop a comprehensive and efficient communication platform for businesses, facilitating interaction between teams and individuals. One of the key features that can be added to this system is Real-Time Chat.
+
+The concept is to enable employees or teams to communicate directly and efficiently through instant messaging, which accelerates decision-making processes and boosts productivity. The core feature is that messages are sent and received in real-time using technologies like WebSockets, ensuring that messages appear instantly on all connected devices.
+
+Key Functions of the Real-Time Chat Feature:
+Send and Receive Messages in Real-Time: When a user sends a message, it is immediately sent to all members of the team or group chat.
+Private and Group Messaging: Users can communicate either individually or within designated team groups.
+User-Friendly Interface: The chat interface includes a message window where messages are displayed clearly, making it easy to read. Additionally, users can send new messages through a simple text input interface.
+Instant Notifications: Users receive real-time notifications when they receive new messages, ensuring quick responses.
+Message History and Reliability: Messages are stored and available for easy retrieval, ensuring continuity in conversations.
