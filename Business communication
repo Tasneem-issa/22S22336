@@ -1,0 +1,7 @@
+Business Communication Software is a real-time communication platform designed to facilitate messaging within teams and organizations. It allows users to chat, share messages, and manage their accounts, helping improve business operations and communication.
+This software supports user login, chat features, and is built using Node.js for the backend and Socket.IO for real-time communication.
+Real-Time Chat: Allows instant text-based communication between users.
+User Authentication: Secure login system with username and password validation.
+Simple User Interface: Clean, easy-to-navigate interface for efficient communication.
+Real-Time Messaging: Messages are transmitted and received instantly using Socket.IO.
+Version Control: GitHub integration for version management and collaborative development.
